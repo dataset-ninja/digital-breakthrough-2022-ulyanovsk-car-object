@@ -1,4 +1,4 @@
-**Digital Breakthrough 2022: Ulyanovsk - Car Object Detection** is a dataset for an object detection task. The dataset consists of 482 images with 482 labeled objects belonging to 1 single class (*car*). Dataset from Digital breakthrough: season AI (Ulyanovsk region) competition.
+The **Digital Breakthrough 2022: Ulyanovsk - Car Object Detection** dataset comprises 482 labeled images specifically focusing on *car* object detection. Part of the Ulyanovsk region AI competition, this dataset challenges participants to develop a real-time distance determination algorithm for cars in different photos. The intended use is for navigation systems to warn about unsafe distances, promoting road safety protocols.
 
 ## About Digital Breakthrough: Season AI (Ulyanovsk Region)
 
